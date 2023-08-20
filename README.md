@@ -1,6 +1,4 @@
-To run the game, execute the makefile in terminal.
-
-Game Commands:
+# Game Controls:
 
 m ID x y<br>
 "move": command Trainer ID to move to location (x, y).<br><br>
@@ -37,7 +35,3 @@ n TYPE ID X Y<br>
     ● t – Trainer<br>
     ● w – WildPokemon<br><br><br>
     
-
-Enjoy the game!!<br><br>
-
-...if there are any bugs, feel free to let me know!
