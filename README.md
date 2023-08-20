@@ -4,19 +4,19 @@ m ID x y<br>
 "move": command Trainer ID to move to location (x, y).<br><br>
   
 c ID1 ID2<br>
-  "move towards a PokemonCenter”: command Trainer ID1 to start heading to PokemonCenter ID2.<br><br>
+  "move towards a Pokemon Center”: command Trainer ID1 to start heading to Pokemon Center ID2.<br><br>
   
 g ID1 ID2<br>
-  “move towards a PokemonGym”: command Trainer ID1 to start heading towards PokemonGym ID2.<br><br>
+  “move towards a Pokemon Gym”: command Trainer ID1 to start heading towards Pokemon Gym ID2.<br><br>
   
 s ID<br>
   "stop": command Trainer ID to stop doing whatever it is doing.<br><br>
   
 p ID potion_amount<br>
-  “buy potions”: command Trainer ID to buy potion_amount of potion at a PokemonCenter.<br><br>
+  “buy potions”: command Trainer ID to buy potion_amount of potions at a Pokemon Center.<br><br>
   
 b ID battle_amount<br>
-  “complete battle_amount battles at a PokemonGym”: command Trainer ID to complete battle_amount of battles at a PokemonGym.<br><br>
+  “complete battle_amount battles at a Pokemon Gym”: command Trainer ID to complete battle_amount of battles at a Pokemon Gym.<br><br>
   
 a<br>
   "advance": advance one-time step by updating each object once.<br><br>
